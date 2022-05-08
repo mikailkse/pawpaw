@@ -1,6 +1,6 @@
 # Flutter - Paw Paw
 
-///////
+Soon...
 
 ## Run Locally
 
@@ -36,23 +36,24 @@ Run App
 - [x] HomePage UI
 - [X] View All UI
 - [x] Cat Detail UI
+- [ ] Localization
 - [x] State Management (Mobx)
 
 
 
 ##  Libraries I use in the application:
-- Mobx : https://pub.dev/packages/flutter_mobx
+Soon...
 
 
 
 ## App Video
 
-///////
+Soon...
 
 
 ## Screenshots
 
-///////
+Soon...
 
 
 ## Contributing
